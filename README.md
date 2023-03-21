@@ -1,5 +1,8 @@
-<h2 align="center"> Olá rede, Meu nome é Matheus De Assis </h2>
-<h3> Atualmente estou no 3° Semestre no curso em Análise e Desenvolvimento de Sistemas e sou Aluno do instituto PROA. </h3>
+<h2 align="center"> Olá rede, Meu nome é Matheus De Assis =)
+<h3> Cursando:
+
+Análise e Desenvolvimento de Sistemas 3/4 (Tecnólogo)
+Desenvolvimento Web Java (Full-stack)</h3>
 <h4> Desenvolvedor Full Stack </h4>
 
 <h3 align="left">Connect with me:</h3>
