@@ -7,8 +7,10 @@ Desenvolvimento Web Java (Full-stack)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <href="
-linkedin.com/in/matheus-de-assis-2224bb227">
+  <head>
+  <link rel="linkedin" href="linkedin.com/in/matheus-de-assis-2224bb227
+">
+</head>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
