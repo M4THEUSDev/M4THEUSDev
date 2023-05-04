@@ -3,7 +3,7 @@
 
 Análise e Desenvolvimento de Sistemas 3/4 (Tecnólogo)
 Desenvolvimento Web Java (Full-stack)</h3>
-<h4> Cursando: ]
+<h4> Cursando: 
   Desenvolvedor Full Stack  </h4>
 
 <h3 align="left">Connect with me:</h3>
