@@ -15,6 +15,4 @@
     <img align="center" alt="Pedro-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Pedro-MySQL" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>  
-  
-  ![Snake animation](https://github.com/JoaoSConrado/JoaoSConrado/blob/output/github-contribution-grid-snake.svg)
+
